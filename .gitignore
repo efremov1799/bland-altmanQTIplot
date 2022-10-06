@@ -1,0 +1,4 @@
+*.qca
+*.qcm
+*.qti
+!testdata.qti
