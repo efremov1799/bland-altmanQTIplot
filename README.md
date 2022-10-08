@@ -36,7 +36,7 @@ The best practice of using data processing scripts in QtiPlot is the following s
 - Other columns/variables can be specified by text replacement in the dialog box in the form of *col1-name$$vs$$col2-name*
 
 ## Script in action
-There are two objects the script returns: set of statements in the Results log and the "Blans-Altman" table that contains processed data ready for plotting:
+There are two objects the script returns: set of statements in the Results log and the "Bland-Altman" table that contains processed data ready for plotting:
 <br><br>
 ![3a](./imgs/3a.png)
 <br><br>
